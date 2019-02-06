@@ -193,7 +193,7 @@
                     {
                         "say": 
                         {
-                            "speech" : "Ok 'x' name. Your reservation for 'x' date at x time for 'x' people is now confirmed. thank you for booking with us"
+                            "speech" : "Ok 'x' name. Your reservation for 'x' date at 'x' time for 'x' people is now confirmed. thank you for booking with us"
                         }
                     }
                 ]
