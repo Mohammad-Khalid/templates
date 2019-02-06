@@ -2,5 +2,9 @@
     "Deep Table Restaurant": {
         "gitUrl": "https://github.com/Mohammad-Khalid/templates.git",
         "folderName" : "deep_table_restaurant"
+    },
+    "Hello World": {
+        "gitUrl": "https://github.com/Mohammad-Khalid/templates.git",
+        "folderName" : "hello-world"
     }
 }
